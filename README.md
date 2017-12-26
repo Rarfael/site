@@ -1,2 +1,2 @@
 # site
-Explain how MOAE works
+Explain how MAOE works
